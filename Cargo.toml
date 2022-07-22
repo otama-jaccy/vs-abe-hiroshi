@@ -8,6 +8,6 @@ edition = "2018"
 
 [dependencies]
 image = "0.23.14"
-actix-web = "3"
+actix-web = "4"
 rand = "0.8.4"
 tera = "1"
